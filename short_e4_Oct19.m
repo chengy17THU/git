@@ -1,3 +1,4 @@
+% test git
 % launched on Oct 19th
 %% settings
 % fix Eon0 according to XPS characterization
